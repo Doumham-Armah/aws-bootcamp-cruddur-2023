@@ -1,5 +1,6 @@
 # Week 0 — Billing and Architecture
 
+##Homework
 Logical diagram:
 ![Alt text](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/logical_diagram.PNG)
 
