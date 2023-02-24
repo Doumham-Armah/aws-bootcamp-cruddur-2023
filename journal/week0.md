@@ -8,4 +8,4 @@ https://lucid.app/lucidchart/4f21932d-d48a-4b9f-a15b-278a136ad4a2/edit?viewport_
 
 
  Conceptual Diagram (napkin design):
-![Alt text]([https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/logical_diagram.PNG](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/napkin_design.jpg))
+![Alt text](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/logical_diagram.PNG)
