@@ -12,3 +12,5 @@ i edited the dockerfile to leverage multi-stage builds. This has allowed me slim
 running container:
 
 ![running container](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/running_container.PNG)
+
+#### frontend
