@@ -32,7 +32,7 @@ as you can see running docker compose with my own fancy backend image did not wo
 
 so i defaulted to the dockerfile provided in this bootcamp. I kept my own "fancy" dockerfile and will try to makw it work at some point in the future.
 
-![ss]()
+![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/composer_final.PNG)
 
 
 
