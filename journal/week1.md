@@ -25,6 +25,14 @@ screenshot:
 #### docker-compose
 
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/docker-composer.PNG)
+as you can see running docker compose with my own fancy backend image did not work and gave me the following error:
+
+
+![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/weird_error)
+
+so i defaulted to the dockerfile provided in this bootcamp. I kept my own "fancy" dockerfile and will try to makw it work at some point in the future.
 
 ![ss]()
+
+
 
