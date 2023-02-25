@@ -8,3 +8,7 @@
 i edited the dockerfile to leverage multi-stage builds. This has allowed me slim down the image size from 129 MB to 122 MB (image for proof)
 
 ![multi-stage build Dockerfile](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/multi-stage%20build.PNG)
+
+running container:
+
+![running container](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/running_container.PNG)
