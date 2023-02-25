@@ -21,3 +21,10 @@ as a DevOps engineer who has done this at work, i builf the reactjs app and set 
 screenshot:
 
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/fe_prof.PNG)
+
+#### docker-compose
+
+![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/docker-composer.PNG)
+
+![ss]()
+
