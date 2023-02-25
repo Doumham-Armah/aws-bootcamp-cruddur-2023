@@ -17,3 +17,7 @@ running container:
 as a DevOps engineer who has done this at work, i builf the reactjs app and set it up to be served via nginx. I have also leveraged multi-stage builds to slim down the size of this image. The configuration file for nginx used in the Dockerfikle can be found under the directory.
 
 ![image](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/react_image_size.PNG)
+
+screenshot:
+
+![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/fe_prof.PNG)
