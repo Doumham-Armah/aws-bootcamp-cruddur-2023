@@ -36,3 +36,14 @@ so i defaulted to the dockerfile provided in this bootcamp. I kept my own "fancy
 
 
 
+
+
+
+
+
+
+
+
+
+## Homework Challenges
+
