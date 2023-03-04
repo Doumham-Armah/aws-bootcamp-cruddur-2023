@@ -55,21 +55,7 @@ so i defaulted to the dockerfile provided in this bootcamp. I kept my own "fancy
 
 #### back-end    
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/notifs_be.PNG)  
-<<<<<<< HEAD
-=======
-
->>>>>>> 3ae16b0d141963186e67c5f1bac2b7b3cbf7970e
 
 
-
-## Homework Challenges
-- Run the dockerfile CMD as an external script
-- Push and tag a image to DockerHub (they have a free tier)
-- Use multi-stage building for a Dockerfile build  
-i have done this. look under the homework section for proof and at the Dockerfiles in my repo
-- Implement a healthcheck in the V3 Docker compose file
-- Research best practices of Dockerfiles and attempt to implement it in your Dockerfile
-- Learn how to install Docker on your localmachine and get the same containers running outside of Gitpod / Codespaces
-- Launch an EC2 instance that has docker installed, and pull a container to demonstrate you can run your own docker processes. 
 
 
