@@ -43,7 +43,13 @@ so i defaulted to the dockerfile provided in this bootcamp. I kept my own "fancy
 
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/snyk_integration.PNG)
 
+### Notifications
 
+#### front-end    
+![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/notifs_fe.PNG)    
+
+#### back-end    
+![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/notifs_be.PNG)  
 
 
 
