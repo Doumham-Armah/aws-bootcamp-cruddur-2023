@@ -45,11 +45,20 @@ so i defaulted to the dockerfile provided in this bootcamp. I kept my own "fancy
 
 ### Notifications
 
+<<<<<<< HEAD
+=======
+### Notifications
+
+>>>>>>> 3ae16b0d141963186e67c5f1bac2b7b3cbf7970e
 #### front-end    
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/notifs_fe.PNG)    
 
 #### back-end    
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/notifs_be.PNG)  
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3ae16b0d141963186e67c5f1bac2b7b3cbf7970e
 
 
 
