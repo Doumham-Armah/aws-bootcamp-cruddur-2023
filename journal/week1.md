@@ -39,8 +39,9 @@ so i defaulted to the dockerfile provided in this bootcamp. I kept my own "fancy
 
 
 
+### Snyk Integration
 
-
+![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/snyk_integration.PNG)
 
 
 
