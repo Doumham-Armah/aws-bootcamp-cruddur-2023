@@ -7,7 +7,7 @@
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/trace_proof_aws_console.PNG)    
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/sampling_rule_xray.PNG)   
 
-the aws_default _region env variable is not being transferred over the daemon container so i had to hardcode it in the docker compose file as shown below:    
+The aws_default _region env variable is not being transferred over to the daemon container so i had to hardcode it in the docker compose file as shown below:    
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/aws_def_region.PNG)    
 
 ### CloudWatch Logs    
