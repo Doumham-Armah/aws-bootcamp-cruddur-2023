@@ -19,7 +19,4 @@ The aws_default _region env variable is not being transferred over to the daemon
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/cloudwatch_proof.PNG)    
 
 ### Rollbar  
-![ss]()    
-![ss]()     
-
-test
+![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/rollbar_integration_proof.png)    
