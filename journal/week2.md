@@ -11,8 +11,8 @@
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/trace_proof_aws_console.PNG)    
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/sampling_rule_xray.PNG)   
 
-#### x-ray subsegments    
-i thought this would be left out from hw but then realized after i submitted the hw that andrew made a vidoe to fix it so i followed along and got it fixed too!    
+#### X-Ray subsegments    
+i thought this was left out from hw but then realized after i submitted the hw that andrew made a vidoe to fix it so i followed along and got it fixed too!    
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/mock_data.PNG) 
 
 #### Error
