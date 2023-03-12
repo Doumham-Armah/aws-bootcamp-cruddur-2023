@@ -1,4 +1,8 @@
-# Week 2 — Distributed Tracing
+# Week 2 — Distributed Tracing.   
+
+### Honeycomb.   
+
+![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/honeycomb_integration.png) 
 
 ### AWS X-Ray   
 ![ss](https://github.com/Doumham-Armah/aws-bootcamp-cruddur-2023/blob/main/journal/assets/x-ray_segments_proof.PNG)    
