@@ -1,4 +1,4 @@
-FROM node:16.18
+FROM node:16.20.2
 
 WORKDIR /frontend-react-js
 COPY package*.json ./
